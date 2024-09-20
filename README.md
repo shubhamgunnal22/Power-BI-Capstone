@@ -4,7 +4,7 @@ As part of the ShopNest Store Capstone project, I designed a comprehensive Power
 The tasks involved in the project included:
 
 1. Top Categories by Total Price: Identified and visually represented the top 10 product categories by total sales.
-
+  
 2. Delayed Orders Analysis: Determined the number of delayed orders in each category by comparing actual delivery dates with estimated delivery dates.
 
 3. Monthly Comparison of Delayed and On-Time Orders: Created dynamic visuals comparing delayed and on-time orders for each month, utilizing the drillthrough cross-report feature for detailed analysis.
@@ -12,6 +12,7 @@ The tasks involved in the project included:
 4. Payment Method Analysis: Analyzed the most frequently used payment methods by customers using visually appealing representations like pie charts.
 
 5. Product Rating Analysis: Identified the top 10 highest-rated and bottom 10 lowest-rated products using bar or column charts.
+  <img width="263" alt="image" src="https://github.com/user-attachments/assets/dd4a02d7-1675-4be8-b899-d7161ed7d836">
 
 6. State-wise Sales Analysis: Visually represented states with high and low sales to provide insight into regional sales performance.
 
